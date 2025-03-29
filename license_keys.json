@@ -1,0 +1,17 @@
+[
+    {
+        "key": "NPnwc-5XwAT-3wjqJ",
+        "used": false,
+        "type": "30d"
+    },
+    {
+        "key": "abcde-fghij-klmno",
+        "used": false,
+        "type": "lifetime"
+    },
+    {
+        "key": "xyz-123-456",
+        "used": false,
+        "type": "7d"
+    }
+]
